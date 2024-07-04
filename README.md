@@ -10,17 +10,17 @@ Data: 03/07/2024
 Empresa: Abstergo Industries Farmacêuticas
 Responsável: Rhayssa Kramer B. de Melo
 
-###### Introdução
+**Introdução**
 Este relatório apresenta o processo de implementação de ferramentas na empresa `Abstergo Industries Farmacêuticas`, realizado por Rhayssa Kramer B. de Melo. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 **Descrição do Projeto**
 O projeto de implementação de ferramentas foi dividido em 3 etapas, cada uma com seus objetivos específicos. A seguir, serão descritas as etapas do projeto:
 
-**Etapa 1:** - Amazon EC2 Spot Instances - Redução de custos em instâncias de computação - Utilização de instâncias Spot para cargas de trabalho não críticas, aproveitando preços mais baixos em momentos de disponibilidade de recursos excedentes.
+- **Etapa 1:** - Amazon EC2 Spot Instances - Redução de custos em instâncias de computação - Utilização de instâncias Spot para cargas de trabalho não críticas, aproveitando preços mais baixos em momentos de disponibilidade de recursos excedentes.
 
-**Etapa 2:** - Amazon S3 Intelligent-Tiering - Otimização de custos de armazenamento - Armazenamento de dados em classes de armazenamento com custos reduzidos, como o S3 Intelligent-Tiering, que move automaticamente os objetos entre camadas de armazenamento com base no acesso e frequência de uso.
+- **Etapa 2:** - Amazon S3 Intelligent-Tiering - Otimização de custos de armazenamento - Armazenamento de dados em classes de armazenamento com custos reduzidos, como o S3 Intelligent-Tiering, que move automaticamente os objetos entre camadas de armazenamento com base no acesso e frequência de uso.
 
-**Etapa 3:** - AWS Lambda - Redução de custos em execução de código - Utilização de funções serverless para executar código sob demanda, pagando apenas pelas invocações e tempo de execução efetivo.
+- **Etapa 3:** - AWS Lambda - Redução de custos em execução de código - Utilização de funções serverless para executar código sob demanda, pagando apenas pelas invocações e tempo de execução efetivo.
 
 **Conclusão**
 A implementação de ferramentas na empresa Abstergo Industries Farmacêuticas tem como esperado trazer benefícios significativos, o que aumentará a eficiência e a produtividade da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
